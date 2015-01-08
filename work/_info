@@ -1,0 +1,374 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/modeltech_pe_10.3c/examples
+valu
+Z0 !s110 1415775852
+!i10b 1
+!s100 mJW668b]Z^9WdNSfHKWIQ2
+Ibe[1E7NeZVA2[b``;8ZXI1
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
+Z2 dC:/Users/sugiyama/Desktop/mips-final
+Z3 w1415341076
+Falu.v
+Z4 8C:/Users/sugiyama/Desktop/mips-final/ex_stage.v
+Z5 FC:/Users/sugiyama/Desktop/mips-final/ex_stage.v
+L0 4
+Z6 OP;L;10.3c;59
+r1
+!s85 0
+31
+Z7 !s108 1415775852.031000
+Z8 !s107 alu.v|alu_control.v|reggy.v|C:/Users/sugiyama/Desktop/mips-final/ex_stage.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sugiyama/Desktop/mips-final/ex_stage.v|
+!i113 1
+Z10 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+valu_control
+R0
+!i10b 1
+!s100 foEZl4N3WfJHEE_@Q;GKo3
+IReBDN6WnmY2Q_6V94C`k13
+R1
+R2
+R3
+Falu_control.v
+R4
+R5
+L0 4
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vcontrol
+Z11 !s110 1415775853
+!i10b 1
+!s100 Q2OPdhcb924NaBL[HN;_l3
+IU;:[zCBL1XHNZji7k:WIk2
+R1
+R2
+Z12 w1415619283
+Fcontrol.v
+Z13 8C:/Users/sugiyama/Desktop/mips-final/id_stage.v
+Z14 FC:/Users/sugiyama/Desktop/mips-final/id_stage.v
+L0 4
+R6
+r1
+!s85 0
+31
+Z15 !s108 1415775853.876000
+Z16 !s107 zreggy.v|control.v|sreggy.v|C:/Users/sugiyama/Desktop/mips-final/id_stage.v|
+Z17 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sugiyama/Desktop/mips-final/id_stage.v|
+!i113 1
+R10
+vcpu
+Z18 !s110 1415775851
+!i10b 1
+!s100 _=TFKLi[;POBUOlKJJ4D32
+Ig@zfAjER:ARPii8]T:F^G3
+R1
+R2
+w1415769585
+8C:/Users/sugiyama/Desktop/mips-final/cpu.v
+FC:/Users/sugiyama/Desktop/mips-final/cpu.v
+L0 12
+R6
+r1
+!s85 0
+31
+!s108 1415775851.782000
+!s107 hazard.v|forward.v|dm.v|regm.v|im.v|wb_stage.v|ma_stage.v|alu.v|alu_control.v|reggy.v|ex_stage.v|zreggy.v|control.v|sreggy.v|id_stage.v|szreggy.v|if_stage.v|C:/Users/sugiyama/Desktop/mips-final/cpu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sugiyama/Desktop/mips-final/cpu.v|
+!i113 1
+R10
+vdm
+R18
+!i10b 1
+!s100 =_m``Nbbz3cXIbF:zENJO2
+IobBKjGi<=kZ39=:JK^P]@3
+R1
+R2
+R3
+8C:/Users/sugiyama/Desktop/mips-final/dm.v
+FC:/Users/sugiyama/Desktop/mips-final/dm.v
+L0 21
+R6
+r1
+!s85 0
+31
+!s108 1415775851.959000
+!s107 C:/Users/sugiyama/Desktop/mips-final/dm.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sugiyama/Desktop/mips-final/dm.v|
+!i113 1
+R10
+vex_stage
+R0
+!i10b 1
+!s100 9jM6XeJEOi[Ff6>fkEaHT1
+IhCLg]zgbTI`?VWOj9TEN11
+R1
+R2
+R3
+R4
+R5
+L0 4
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vforward
+R0
+!i10b 1
+!s100 L45FVT8keUNQPJ9_[AVLZ2
+IODF<kB0=O0@A1FAHA?J4T3
+R1
+R2
+w1415769279
+8C:/Users/sugiyama/Desktop/mips-final/forward.v
+FC:/Users/sugiyama/Desktop/mips-final/forward.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1415775852.122000
+!s107 C:/Users/sugiyama/Desktop/mips-final/forward.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sugiyama/Desktop/mips-final/forward.v|
+!i113 1
+R10
+vhazard
+R0
+!i10b 1
+!s100 8<Fz]d06a=?ORfC9kB@ZV0
+IjL:mzGMhOJ@nPKA0IeA5_2
+R1
+R2
+w1415769538
+8C:/Users/sugiyama/Desktop/mips-final/hazard.v
+FC:/Users/sugiyama/Desktop/mips-final/hazard.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1415775852.217000
+!s107 C:/Users/sugiyama/Desktop/mips-final/hazard.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sugiyama/Desktop/mips-final/hazard.v|
+!i113 1
+R10
+vid_stage
+R11
+!i10b 1
+!s100 @]2zOd91iT0WL1RE6R4BE0
+I]bQlRVT`UlP0Q^Pa@XUWi3
+R1
+R2
+R12
+R13
+R14
+L0 7
+R6
+r1
+!s85 0
+31
+R15
+R16
+R17
+!i113 1
+R10
+vif_stage
+R11
+!i10b 1
+!s100 G3b1eKaNFV@oW<medmJ@41
+IneLogJBPgdZ50XI>oTCEe3
+R1
+R2
+w1415619108
+8C:/Users/sugiyama/Desktop/mips-final/if_stage.v
+FC:/Users/sugiyama/Desktop/mips-final/if_stage.v
+L0 4
+R6
+r1
+!s85 0
+31
+!s108 1415775853.957000
+!s107 szreggy.v|C:/Users/sugiyama/Desktop/mips-final/if_stage.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sugiyama/Desktop/mips-final/if_stage.v|
+!i113 1
+R10
+vim
+Z19 !s110 1415775854
+!i10b 1
+!s100 5A51D5L2PDcG=Eb3LGUgV1
+IFKihA=F50PX[h9:cWOKG<3
+R1
+R2
+w1415619168
+8C:/Users/sugiyama/Desktop/mips-final/im.v
+FC:/Users/sugiyama/Desktop/mips-final/im.v
+Z20 L0 24
+R6
+r1
+!s85 0
+31
+!s108 1415775854.027000
+!s107 C:/Users/sugiyama/Desktop/mips-final/im.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sugiyama/Desktop/mips-final/im.v|
+!i113 1
+R10
+vma_stage
+R19
+!i10b 1
+!s100 ESJNjB3kIL7`Q5^PQ_?m21
+I6L@3_]gl3GHg4g=dXGnkB1
+R1
+R2
+w1415769021
+8C:/Users/sugiyama/Desktop/mips-final/ma_stage.v
+FC:/Users/sugiyama/Desktop/mips-final/ma_stage.v
+L0 2
+R6
+r1
+!s85 0
+31
+!s108 1415775854.075000
+!s107 reggy.v|C:/Users/sugiyama/Desktop/mips-final/ma_stage.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sugiyama/Desktop/mips-final/ma_stage.v|
+!i113 1
+R10
+vreggy
+R19
+!i10b 1
+!s100 l61D1OZOz7IPMoY5D6`lP2
+ISR[H[eoS7L:jc?74;n1T=1
+R1
+R2
+R3
+8C:/Users/sugiyama/Desktop/mips-final/reggy.v
+FC:/Users/sugiyama/Desktop/mips-final/reggy.v
+L0 30
+R6
+r1
+!s85 0
+31
+!s108 1415775854.148000
+!s107 C:/Users/sugiyama/Desktop/mips-final/reggy.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sugiyama/Desktop/mips-final/reggy.v|
+!i113 1
+R10
+vregm
+R19
+!i10b 1
+!s100 oj0Kb:d8^1MMoRJk[QET03
+Ib<ziYg5QC=I1dAO9CjPFI1
+R1
+R2
+R3
+8C:/Users/sugiyama/Desktop/mips-final/regm.v
+FC:/Users/sugiyama/Desktop/mips-final/regm.v
+R20
+R6
+r1
+!s85 0
+31
+!s108 1415775854.206000
+!s107 C:/Users/sugiyama/Desktop/mips-final/regm.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sugiyama/Desktop/mips-final/regm.v|
+!i113 1
+R10
+vsreggy
+R19
+!i10b 1
+!s100 CfRO56d>=?7:>_QeTBd[K0
+I3^KDOYYMUCDKoYeK:Lh1N3
+R1
+R2
+R3
+8C:/Users/sugiyama/Desktop/mips-final/sreggy.v
+FC:/Users/sugiyama/Desktop/mips-final/sreggy.v
+Z21 L0 23
+R6
+r1
+!s85 0
+31
+!s108 1415775854.256000
+!s107 C:/Users/sugiyama/Desktop/mips-final/sreggy.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sugiyama/Desktop/mips-final/sreggy.v|
+!i113 1
+R10
+vszreggy
+R19
+!i10b 1
+!s100 CalB::DKmb_=eIKlSjEg30
+IUgCl:LC]ON4IY5>hGjz0d3
+R1
+R2
+R3
+8C:/Users/sugiyama/Desktop/mips-final/szreggy.v
+FC:/Users/sugiyama/Desktop/mips-final/szreggy.v
+L0 17
+R6
+r1
+!s85 0
+31
+!s108 1415775854.308000
+!s107 C:/Users/sugiyama/Desktop/mips-final/szreggy.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sugiyama/Desktop/mips-final/szreggy.v|
+!i113 1
+R10
+vwb_stage
+R19
+!i10b 1
+!s100 XfP;6P`?NoLS:MQN@UfOg0
+I@7[TAV05li]iFSBLgJ9KA1
+R1
+R2
+R3
+8C:/Users/sugiyama/Desktop/mips-final/wb_stage.v
+FC:/Users/sugiyama/Desktop/mips-final/wb_stage.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1415775854.356000
+!s107 C:/Users/sugiyama/Desktop/mips-final/wb_stage.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sugiyama/Desktop/mips-final/wb_stage.v|
+!i113 1
+R10
+vzreggy
+R11
+!i10b 1
+!s100 2bn>VL?MAbKA397bLeO=93
+II]Taz4QhXO3F>V1SE<2cV1
+R1
+R2
+R12
+Fzreggy.v
+R13
+R14
+R21
+R6
+r1
+!s85 0
+31
+R15
+R16
+R17
+!i113 1
+R10

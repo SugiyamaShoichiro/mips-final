@@ -1,0 +1,152 @@
+C:/Users/sugiyama/Desktop/mips-final/zreggy.v {1 {vlog -work work -stats=none C:/Users/sugiyama/Desktop/mips-final/zreggy.v
+Model Technology ModelSim PE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module zreggy
+
+Top level modules:
+	zreggy
+
+} {} {}} C:/Users/sugiyama/Desktop/mips-final/cpu.v {1 {vlog -work work -stats=none C:/Users/sugiyama/Desktop/mips-final/cpu.v
+Model Technology ModelSim PE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module szreggy
+-- Compiling module if_stage
+-- Compiling module sreggy
+-- Compiling module control
+-- Compiling module zreggy
+-- Compiling module id_stage
+-- Compiling module reggy
+-- Compiling module alu_control
+-- Compiling module alu
+-- Compiling module ex_stage
+-- Compiling module ma_stage
+-- Compiling module wb_stage
+-- Compiling module im
+-- Compiling module regm
+-- Compiling module dm
+-- Compiling module forward
+-- Compiling module hazard
+-- Compiling module cpu
+
+Top level modules:
+	cpu
+
+} {} {}} C:/Users/sugiyama/Desktop/mips-final/ex_stage.v {1 {vlog -work work -stats=none C:/Users/sugiyama/Desktop/mips-final/ex_stage.v
+Model Technology ModelSim PE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module reggy
+-- Compiling module alu_control
+-- Compiling module alu
+-- Compiling module ex_stage
+
+Top level modules:
+	ex_stage
+
+} {} {}} C:/Users/sugiyama/Desktop/mips-final/id_stage.v {1 {vlog -work work -stats=none C:/Users/sugiyama/Desktop/mips-final/id_stage.v
+Model Technology ModelSim PE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module sreggy
+-- Compiling module control
+-- Compiling module zreggy
+-- Compiling module id_stage
+
+Top level modules:
+	id_stage
+
+} {} {}} C:/Users/sugiyama/Desktop/mips-final/sreggy.v {1 {vlog -work work -stats=none C:/Users/sugiyama/Desktop/mips-final/sreggy.v
+Model Technology ModelSim PE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module sreggy
+
+Top level modules:
+	sreggy
+
+} {} {}} C:/Users/sugiyama/Desktop/mips-final/ma_stage.v {1 {vlog -work work -stats=none C:/Users/sugiyama/Desktop/mips-final/ma_stage.v
+Model Technology ModelSim PE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module reggy
+-- Compiling module ma_stage
+
+Top level modules:
+	ma_stage
+
+} {} {}} C:/Users/sugiyama/Desktop/mips-final/alu_control.v {1 {vlog -work work -stats=none C:/Users/sugiyama/Desktop/mips-final/alu_control.v
+Model Technology ModelSim PE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module alu_control
+
+Top level modules:
+	alu_control
+
+} {} {}} C:/Users/sugiyama/Desktop/mips-final/hazard.v {1 {vlog -work work -stats=none C:/Users/sugiyama/Desktop/mips-final/hazard.v
+Model Technology ModelSim PE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module hazard
+
+Top level modules:
+	hazard
+
+} {} {}} C:/Users/sugiyama/Desktop/mips-final/if_stage.v {1 {vlog -work work -stats=none C:/Users/sugiyama/Desktop/mips-final/if_stage.v
+Model Technology ModelSim PE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module szreggy
+-- Compiling module if_stage
+
+Top level modules:
+	if_stage
+
+} {} {}} C:/Users/sugiyama/Desktop/mips-final/szreggy.v {1 {vlog -work work -stats=none C:/Users/sugiyama/Desktop/mips-final/szreggy.v
+Model Technology ModelSim PE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module szreggy
+
+Top level modules:
+	szreggy
+
+} {} {}} C:/Users/sugiyama/Desktop/mips-final/reggy.v {1 {vlog -work work -stats=none C:/Users/sugiyama/Desktop/mips-final/reggy.v
+Model Technology ModelSim PE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module reggy
+
+Top level modules:
+	reggy
+
+} {} {}} C:/Users/sugiyama/Desktop/mips-final/im.v {1 {vlog -work work -stats=none C:/Users/sugiyama/Desktop/mips-final/im.v
+Model Technology ModelSim PE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module im
+
+Top level modules:
+	im
+
+} {} {}} C:/Users/sugiyama/Desktop/mips-final/control.v {1 {vlog -work work -stats=none C:/Users/sugiyama/Desktop/mips-final/control.v
+Model Technology ModelSim PE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module control
+
+Top level modules:
+	control
+
+} {} {}} C:/Users/sugiyama/Desktop/mips-final/dm.v {1 {vlog -work work -stats=none C:/Users/sugiyama/Desktop/mips-final/dm.v
+Model Technology ModelSim PE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module dm
+
+Top level modules:
+	dm
+
+} {} {}} C:/Users/sugiyama/Desktop/mips-final/alu.v {1 {vlog -work work -stats=none C:/Users/sugiyama/Desktop/mips-final/alu.v
+Model Technology ModelSim PE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} C:/Users/sugiyama/Desktop/mips-final/regm.v {1 {vlog -work work -stats=none C:/Users/sugiyama/Desktop/mips-final/regm.v
+Model Technology ModelSim PE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module regm
+
+Top level modules:
+	regm
+
+} {} {}} C:/Users/sugiyama/Desktop/mips-final/wb_stage.v {1 {vlog -work work -stats=none C:/Users/sugiyama/Desktop/mips-final/wb_stage.v
+Model Technology ModelSim PE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module wb_stage
+
+Top level modules:
+	wb_stage
+
+} {} {}} C:/Users/sugiyama/Desktop/mips-final/forward.v {1 {vlog -work work -stats=none C:/Users/sugiyama/Desktop/mips-final/forward.v
+Model Technology ModelSim PE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module forward
+
+Top level modules:
+	forward
+
+} {} {}}
